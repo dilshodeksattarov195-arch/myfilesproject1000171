@@ -1,0 +1,7 @@
+body { background: #fc3584; margin: 0; font-family: sans-serif; }
+.secure-terminal { padding: 26px; display: flex; }
+.block-filter-0 { color: #f586f7; font-size: 18px; margin-bottom: 5px; }
+.block-metrics-1 { color: #5317f2; font-size: 18px; margin-bottom: 5px; }
+.block-sms-2 { color: #c55844; font-size: 14px; margin-bottom: 5px; }
+.block-config-3 { color: #d686d3; font-size: 15px; margin-bottom: 5px; }
+.block-router-4 { color: #582390; font-size: 12px; margin-bottom: 5px; }
