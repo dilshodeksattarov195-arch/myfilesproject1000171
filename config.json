@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartvtringify",
+        "uuid": 22059,
+        "checksum": "huf3n"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
